@@ -1,3 +1,10 @@
+/*
+
+Solution reference: 
+https://www.youtube.com/watch?v=zyWzU7A77QA&ab_channel=CodeWithSunny
+
+*/
+
 class Solution {
 public:
     int divide(int dividend, int divisor) {
