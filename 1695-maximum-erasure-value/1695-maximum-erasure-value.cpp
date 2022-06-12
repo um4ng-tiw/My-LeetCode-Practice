@@ -1,3 +1,11 @@
+/*
+Solution Reference: https://www.youtube.com/watch?v=2X2hGiDUmtg&ab_channel=CodingDecoded
+
+Approach: 
+Keep inserting it in the set. If its found keep removing and increasing the start pointer.
+
+*/
+
 class Solution {
 public:
     int maximumUniqueSubarray(vector<int>& nums) {
