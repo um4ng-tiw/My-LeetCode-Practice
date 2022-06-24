@@ -1,3 +1,7 @@
+/*
+Solution reference: https://www.youtube.com/watch?v=voObxZxXoZw&ab_channel=CodingDecoded
+*/
+
 class Solution {
 public:
     bool isPossible(vector<int>& target) {
