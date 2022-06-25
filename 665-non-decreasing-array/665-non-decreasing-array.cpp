@@ -1,3 +1,8 @@
+/*
+Solution reference:
+https://www.youtube.com/watch?v=RegQckCegDk&ab_channel=NeetCode
+
+*/
 class Solution {
 public:
     bool checkPossibility(vector<int>& nums) {
