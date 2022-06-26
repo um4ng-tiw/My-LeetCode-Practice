@@ -1,3 +1,10 @@
+/*
+Solution reference:
+https://www.youtube.com/watch?v=TsA4vbtfCvo&ab_channel=NeetCode
+
+Create a sliding window of n - k size
+*/
+
 class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
